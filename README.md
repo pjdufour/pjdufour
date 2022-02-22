@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **pjdufour/pjdufour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on the following go libraries: [go-flat](https://github.com/spatialcurrent/go-flat), [go-math](https://github.com/spatialcurrent/go-math), [go-fit](https://github.com/spatialcurrent/go-fit), [go-lazy](https://github.com/spatialcurrent/go-lazy), [go-pipe](https://github.com/spatialcurrent/go-pipe), [go-try-get](https://github.com/spatialcurrent/go-try-get), and [go-adaptive-functions](https://github.com/spatialcurrent/go-adaptive-functions).
+I'm a Principal Cloud Architect.  I love building teams to solve wicked data problems.  I've designed, developed, and deployed into production multiple data architectures and pipelines.  Here's some what I am currently working on.
+
+- Go Programs: [gocat](https://github.com/spatialcurrent/gocat)
+
+- Go Libraries: [go-flat](https://github.com/spatialcurrent/go-flat), [go-math](https://github.com/spatialcurrent/go-math), [go-fit](https://github.com/spatialcurrent/go-fit), [go-lazy](https://github.com/spatialcurrent/go-lazy), [go-pipe](https://github.com/spatialcurrent/go-pipe), [go-try-get](https://github.com/spatialcurrent/go-try-get), and [go-adaptive-functions](https://github.com/spatialcurrent/go-adaptive-functions).

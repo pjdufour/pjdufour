@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Principal Cloud Architect.  I love building teams to solve wicked data problems.  I've designed, developed, and deployed into production multiple data architectures and pipelines.  Here's some what I am currently working on.
+I'm a Director of Engineering.  I love building teams to solve wicked data problems.  I've designed, developed, and deployed into production multiple data architectures and pipelines.  Here's some what I am currently working on.
 
 - Go Programs: [gocat](https://github.com/spatialcurrent/gocat)
 
